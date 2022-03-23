@@ -54,1858 +54,308 @@
       "ref": "refs/tags/v0.1.0"
     },
     {
-      "name": "nimterop",
-      "version": "0.2.0",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [
-        "config.nims"
-      ],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.19.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.19.2"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.10.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.10.0"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 0.9.17",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.9.17"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/tags/v0.2.0"
+      "name": "nimterop",
+      "ref": "refs/tags/v0.2.0",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "v0_2_0"
     },
     {
-      "name": "nimterop",
-      "version": "0.2.1",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [
-        "config.nims"
-      ],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.19.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.19.2"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.10.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.10.0"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 0.9.17",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.9.17"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/tags/v0.2.1"
+      "name": "nimterop",
+      "ref": "refs/tags/v0.2.1",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "v0_2_1"
     },
     {
-      "name": "nimterop",
-      "version": "0.3.0",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [
-        "config.nims"
-      ],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.19.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.19.2"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.10.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.10.0"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 0.9.17",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.9.17"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/tags/v0.3.0"
+      "name": "nimterop",
+      "ref": "refs/tags/v0.3.0",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "v0_3_0"
     },
     {
-      "name": "nimterop",
-      "version": "0.3.1",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [
-        "config.nims"
-      ],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.19.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.19.2"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.10.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.10.0"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 0.9.17",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.9.17"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/tags/v0.3.1"
+      "name": "nimterop",
+      "ref": "refs/tags/v0.3.1",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "v0_3_1"
     },
     {
-      "name": "nimterop",
-      "version": "0.3.2",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [
-        "config.nims"
-      ],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.19.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.19.2"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.10.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.10.0"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 0.9.17",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.9.17"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/tags/v0.3.2"
+      "name": "nimterop",
+      "ref": "refs/tags/v0.3.2",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "v0_3_2"
     },
     {
-      "name": "nimterop",
-      "version": "0.3.3",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [
-        "config.nims"
-      ],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.19.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.19.2"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.10.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.10.0"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 0.9.17",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.9.17"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/tags/v0.3.3"
+      "name": "nimterop",
+      "ref": "refs/tags/v0.3.3",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "v0_3_3"
     },
     {
-      "name": "nimterop",
-      "version": "0.3.4",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [
-        "config.nims"
-      ],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.19.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.19.2"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.10.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.10.0"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 0.9.17",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.9.17"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/tags/v0.3.4"
+      "name": "nimterop",
+      "ref": "refs/tags/v0.3.4",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "v0_3_4"
     },
     {
-      "name": "nimterop",
-      "version": "0.3.5",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [
-        "config.nims"
-      ],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.19.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.19.2"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.10.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.10.0"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 0.9.17",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.9.17"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/tags/v0.3.5"
+      "name": "nimterop",
+      "ref": "refs/tags/v0.3.5",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "v0_3_5"
     },
     {
-      "name": "nimterop",
-      "version": "0.3.6",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [
-        "config.nims"
-      ],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.19.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.19.2"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.10.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.10.0"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 0.9.17",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.9.17"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/tags/v0.3.6"
+      "name": "nimterop",
+      "ref": "refs/tags/v0.3.6",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "v0_3_6"
     },
     {
-      "name": "nimterop",
-      "version": "0.4.0",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [
-        "config.nims"
-      ],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.19.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.19.2"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.10.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.10.0"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 0.9.17",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.9.17"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/tags/v0.4.0"
+      "name": "nimterop",
+      "ref": "refs/tags/v0.4.0",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "v0_4_0"
     },
     {
-      "name": "nimterop",
-      "version": "0.4.1",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [
-        "config.nims"
-      ],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.19.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.19.2"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.10.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.10.0"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 0.9.17",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.9.17"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/tags/v0.4.1"
+      "name": "nimterop",
+      "ref": "refs/tags/v0.4.1",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "v0_4_1"
     },
     {
-      "name": "nimterop",
-      "version": "0.4.2",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [
-        "config.nims"
-      ],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.19.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.19.2"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.10.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.10.0"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 0.9.17",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.9.17"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/tags/v0.4.2"
+      "name": "nimterop",
+      "ref": "refs/tags/v0.4.2",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "v0_4_2"
     },
     {
-      "name": "nimterop",
-      "version": "0.4.3",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [
-        "config.nims"
-      ],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.19.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.19.2"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.10.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.10.0"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 0.9.17",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.9.17"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/tags/v0.4.3"
+      "name": "nimterop",
+      "ref": "refs/tags/v0.4.3",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "v0_4_3"
     },
     {
-      "name": "nimterop",
-      "version": "0.4.4",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [
-        "config.nims"
-      ],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.19.6",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.19.6"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.13.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.13.0"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 0.9.41",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.9.41"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/tags/v0.4.4"
+      "name": "nimterop",
+      "ref": "refs/tags/v0.4.4",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "v0_4_4"
     },
     {
-      "name": "nimterop",
-      "version": "0.5.0",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.20.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.20.2"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.14.1",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.14.1"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 0.9.45",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.9.45"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/tags/v0.5.0"
+      "name": "nimterop",
+      "ref": "refs/tags/v0.5.0",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "v0_5_0"
     },
     {
-      "name": "nimterop",
-      "version": "0.5.1",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.20.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.20.2"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.14.1",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.14.1"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 0.9.45",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.9.45"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/tags/v0.5.1"
+      "name": "nimterop",
+      "ref": "refs/tags/v0.5.1",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "v0_5_1"
     },
     {
-      "name": "nimterop",
-      "version": "0.5.2",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.20.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.20.2"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.14.1",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.14.1"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 0.9.45",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.9.45"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/tags/v0.5.2"
+      "name": "nimterop",
+      "ref": "refs/tags/v0.5.2",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "v0_5_2"
     },
     {
-      "name": "nimterop",
-      "version": "0.5.3",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.20.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.20.2"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.14.1",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.14.1"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 0.9.45",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.9.45"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/tags/v0.5.3"
+      "name": "nimterop",
+      "ref": "refs/tags/v0.5.3",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "v0_5_3"
     },
     {
-      "name": "nimterop",
-      "version": "0.5.4",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.20.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.20.2"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.14.1",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.14.1"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 0.9.45",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.9.45"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/tags/v0.5.4"
+      "name": "nimterop",
+      "ref": "refs/tags/v0.5.4",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "v0_5_4"
     },
     {
-      "name": "nimterop",
-      "version": "0.5.5",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.20.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.20.2"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.14.1",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.14.1"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 0.9.45",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.9.45"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/tags/v0.5.5"
+      "name": "nimterop",
+      "ref": "refs/tags/v0.5.5",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "v0_5_5"
     },
     {
-      "name": "nimterop",
-      "version": "0.5.6",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.20.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.20.2"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.14.1",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.14.1"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 0.9.45",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.9.45"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/tags/v0.5.6"
+      "name": "nimterop",
+      "ref": "refs/tags/v0.5.6",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "v0_5_6"
     },
     {
-      "name": "nimterop",
-      "version": "0.5.7",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.20.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.20.2"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.14.1",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.14.1"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 0.9.45",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.9.45"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/tags/v0.5.7"
+      "name": "nimterop",
+      "ref": "refs/tags/v0.5.7",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "v0_5_7"
     },
     {
-      "name": "nimterop",
-      "version": "0.5.8",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.20.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.20.2"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.14.1",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.14.1"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 0.9.45",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.9.45"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/tags/v0.5.8"
+      "name": "nimterop",
+      "ref": "refs/tags/v0.5.8",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "v0_5_8"
     },
     {
-      "name": "nimterop",
-      "version": "0.5.9",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.20.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.20.2"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.14.1",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.14.1"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 0.9.45",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.9.45"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/tags/v0.5.9"
+      "name": "nimterop",
+      "ref": "refs/tags/v0.5.9",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "v0_5_9"
     },
     {
-      "name": "nimterop",
-      "version": "0.6.0",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.20.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.20.2"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.15.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.15.0"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 1.0.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "1.0.0"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/tags/v0.6.0"
+      "name": "nimterop",
+      "ref": "refs/tags/v0.6.0",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "v0_6_0"
     },
     {
-      "name": "nimterop",
-      "version": "0.6.1",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.20.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.20.2"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.15.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.15.0"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 1.0.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "1.0.0"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/tags/v0.6.1"
+      "name": "nimterop",
+      "ref": "refs/tags/v0.6.1",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "v0_6_1"
     },
     {
-      "name": "nimterop",
-      "version": "0.6.10",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.20.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.20.2"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.15.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.15.0"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 1.0.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "1.0.0"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/tags/v0.6.10"
+      "name": "nimterop",
+      "ref": "refs/tags/v0.6.10",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "v0_6_10"
     },
     {
-      "name": "nimterop",
-      "version": "0.6.11",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.20.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.20.2"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.15.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.15.0"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 1.0.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "1.0.0"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/tags/v0.6.11"
+      "name": "nimterop",
+      "ref": "refs/tags/v0.6.11",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "v0_6_11"
     },
     {
-      "name": "nimterop",
-      "version": "0.6.12",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.20.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.20.2"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.15.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.15.0"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 1.0.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "1.0.0"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/loaf",
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/tags/v0.6.12"
+      "name": "nimterop",
+      "ref": "refs/tags/v0.6.12",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "v0_6_12"
     },
     {
-      "name": "nimterop",
-      "version": "0.6.13",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.20.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.20.2"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.15.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.15.0"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 1.0.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "1.0.0"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/loaf",
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/tags/v0.6.13"
+      "name": "nimterop",
+      "ref": "refs/tags/v0.6.13",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "v0_6_13"
     },
     {
-      "name": "nimterop",
-      "version": "0.6.2",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.20.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.20.2"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.15.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.15.0"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 1.0.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "1.0.0"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/tags/v0.6.2"
+      "name": "nimterop",
+      "ref": "refs/tags/v0.6.2",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "v0_6_2"
     },
     {
-      "name": "nimterop",
-      "version": "0.6.3",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.20.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.20.2"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.15.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.15.0"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 1.0.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "1.0.0"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/tags/v0.6.3"
+      "name": "nimterop",
+      "ref": "refs/tags/v0.6.3",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "v0_6_3"
     },
     {
-      "name": "nimterop",
-      "version": "0.6.4",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.20.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.20.2"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.15.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.15.0"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 1.0.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "1.0.0"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/tags/v0.6.4"
+      "name": "nimterop",
+      "ref": "refs/tags/v0.6.4",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "v0_6_4"
     },
     {
-      "name": "nimterop",
-      "version": "0.6.5",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.20.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.20.2"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.15.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.15.0"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 1.0.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "1.0.0"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/tags/v0.6.5"
+      "name": "nimterop",
+      "ref": "refs/tags/v0.6.5",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "v0_6_5"
     },
     {
-      "name": "nimterop",
-      "version": "0.6.6",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.20.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.20.2"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.15.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.15.0"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 1.0.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "1.0.0"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/tags/v0.6.6"
+      "name": "nimterop",
+      "ref": "refs/tags/v0.6.6",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "v0_6_6"
     },
     {
-      "name": "nimterop",
-      "version": "0.6.7",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.20.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.20.2"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.15.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.15.0"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 1.0.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "1.0.0"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/tags/v0.6.7"
+      "name": "nimterop",
+      "ref": "refs/tags/v0.6.7",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "v0_6_7"
     },
     {
-      "name": "nimterop",
-      "version": "0.6.8",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.20.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.20.2"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.15.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.15.0"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 1.0.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "1.0.0"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/tags/v0.6.8"
+      "name": "nimterop",
+      "ref": "refs/tags/v0.6.8",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "v0_6_8"
     },
     {
-      "name": "nimterop",
-      "version": "0.6.9",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.20.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.20.2"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.15.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.15.0"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 1.0.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "1.0.0"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/tags/v0.6.9"
+      "name": "nimterop",
+      "ref": "refs/tags/v0.6.9",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "v0_6_9"
     }
   ],
   "description": "Nimterop makes C/C++ interop within Nim seamless",
@@ -1973,53 +423,12 @@
   ],
   "heads": [
     {
-      "name": "nimterop",
-      "version": "0.6.13",
-      "author": "genotrance",
-      "desc": "C/C++ interop for Nim",
+      "description": "Nimterop makes C/C++ interop within Nim seamless",
       "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [
-        "nimterop"
-      ],
-      "installFiles": [],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.20.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.20.2"
-          }
-        },
-        {
-          "name": "regex",
-          "str": ">= 0.15.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.15.0"
-          }
-        },
-        {
-          "name": "cligen",
-          "str": ">= 1.0.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "1.0.0"
-          }
-        }
-      ],
-      "bin": [
-        "nimterop/loaf",
-        "nimterop/toast"
-      ],
-      "binDir": "",
-      "srcDir": "",
-      "backend": "c",
-      "ref": "refs/heads/master"
+      "name": "nimterop",
+      "ref": "refs/heads/master",
+      "url": "https://github.com/genotrance/nimterop",
+      "version": "master"
     }
   ]
 }
