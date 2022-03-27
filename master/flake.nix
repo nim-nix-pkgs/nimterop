@@ -11,6 +11,7 @@
   inputs.src-nimterop-master.ref   = "refs/heads/master";
   inputs.src-nimterop-master.owner = "genotrance";
   inputs.src-nimterop-master.repo  = "nimterop";
+  inputs.src-nimterop-master.dir   = "";
   inputs.src-nimterop-master.type  = "github";
   
   inputs."regex".owner = "nim-nix-pkgs";
