@@ -11,7 +11,6 @@
   inputs.src-nimterop-v0_5_6.ref   = "refs/tags/v0.5.6";
   inputs.src-nimterop-v0_5_6.owner = "genotrance";
   inputs.src-nimterop-v0_5_6.repo  = "nimterop";
-  inputs.src-nimterop-v0_5_6.dir   = "";
   inputs.src-nimterop-v0_5_6.type  = "github";
   
   inputs."regex".owner = "nim-nix-pkgs";
